@@ -1,15 +1,15 @@
 # Phishing Detection Discord Bot  
 
-🚀 **A Python-powered Discord bot that analyzes URLs for phishing risks using the VirusTotal API and provides real-time safety reports.**  
+**A Python-powered Discord bot that analyzes URLs for phishing risks using the VirusTotal API and provides real-time safety reports.**  
 
-## 📌 Features  
+## Features  
 - 🔍 **URL Analysis:** Users can check the safety of links using the `!checklink` command.  
 - 🛡️ **VirusTotal Integration:** The bot submits URLs to VirusTotal and retrieves security reports.  
 - ⚙️ **Secure API Handling:** Environment variables are used to protect sensitive API keys.  
 - 📢 **User Assistance:** A `!help` command provides instructions for usage.  
 - 🔄 **Error Handling & Reliability:** The bot gracefully handles API errors and ensures smooth operation.  
 
-## 🛠️ Installation  
+## Installation  
 
 1. **Clone the repository:**  
    ```bash
